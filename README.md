@@ -49,15 +49,15 @@ During training, the Generator is rewarded for producing images that fool the Di
 
 ## Usage
 
-1. Place your low-resolution images in the `LR/` directory [this Kaggle link](https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution).
+1. Place your low-resolution images in the `LR/` directory [this Kaggle link](https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution). [Present as LR_1, LR_2, LR_3]
 
 2. Run the super-resolution process:
    ```
    python test.py
    ```
 
-3. Find the upscaled images in the `results/` directory.
-4. The images in the `results/` directory can be compared with the images in the `high_res` directory and the comparison can be done.
+3. Find the upscaled images in the `results/` directory. [this Google Drive link](https://drive.google.com/file/d/1YZqgis-6zGV-2Tz_1M0uADBw8m7HiHLi/view?usp=drive_link)
+4. The images in the `results/` directory can be compared with the images in the `high_res` directory and the comparison can be done. [Present as high_res_1, high_res_2, high_res_3, high_res_4]
 
 ## Results
 
